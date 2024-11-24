@@ -8,8 +8,15 @@
     <language>en</language>
     <managingEditor>youremail@domain.com (Some Person)</managingEditor>
     <webMaster>youremail@domain.com (Some Person)</webMaster>
-    <lastBuildDate>Sun, 24 Nov 2024 13:16:17 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 13:43:23 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E7%AA%81%E7%A0%B4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的學習歷程</title>
+      <link>http://localhost:1313/post/second-page/</link>
+      <pubDate>Sun, 24 Nov 2024 13:43:23 +0800</pubDate><author>youremail@domain.com (Some Person)</author>
+      <guid>http://localhost:1313/post/second-page/</guid>
+      <description>&lt;p&gt;自我提升與跨領域學習&lt;/p&gt;&#xA;&lt;p&gt;除了專業學習，我還積極參與各類課外活動，並且將學習的視野擴展到跨領域的知識領域。我參加了學校的領導力培訓課程，學習如何管理團隊和解決實際問題。這段經歷不僅提升了我的人際交往和溝通能力，也讓我學會如何在壓力下做出明智決策。&lt;/p&gt;&#xA;&lt;p&gt;此外，我也開始自學編程，學習如何使用 Python 進行數據分析與處理。這一技能的學習，幫助我開闊了職業生涯的道路，並且讓我在學術研究中更加游刃有餘地處理各種數據。&lt;/p&gt;&#xA;&lt;p&gt;4.未來的學習挑戰與目標&lt;/p&gt;&#xA;&lt;p&gt;學習是一個持續不斷的過程，我深知每一次成就的背後，都離不開不懈的努力和持續的學習。未來，我希望能夠進一步深入專業領域，並且將跨領域的知識應用到更多的實踐中。我計畫繼續提升自己的研究能力，並且參與更多的國際合作項目，擴大自己的學術影響力。&lt;/p&gt;&#xA;&lt;p&gt;學習的過程中，雖然有挑戰，但每次突破自我、實現成就的瞬間，都讓我感到無比的欣喜。未來，我將繼續保持學習的熱情，不斷進步，並且將所學的知識回饋社會，幫助更多的人。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>我的學習歷程</title>
       <link>http://localhost:1313/post/test/</link>

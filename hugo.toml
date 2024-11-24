@@ -124,6 +124,6 @@ pygmentsCodefencesGuessSyntax = true
     url = "tags"
     weight = 3
 [[menu.main]]
-    name = "第二頁"
-    url = "/second-page/"
+    name = "second page"
+    url = "/second-page"
     weight = 2
